@@ -1,5 +1,3 @@
-import jdk.internal.org.xml.sax.InputSource;
-import jdk.internal.org.xml.sax.XMLReader;
 import org.w3c.dom.*;
 import org.xml.sax.helpers.XMLReaderFactory;
 
